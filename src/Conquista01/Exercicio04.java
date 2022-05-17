@@ -2,11 +2,15 @@ package Conquista01;
 
 public class Exercicio04 {
     public static void main(String[] args) {
-        String nome = "Guilherme";
-        String endereço = "Portugal";
-        double salario = 10000;
-        String DataDeRecebimento = "09/05/2022";
 
-        System.out.println("Eu " +nome+ " Moro em " +endereço+ ",e eu recebo " +salario+ " Euros no dia "+DataDeRecebimento);
+        byte menorNumero = 100;
+        int número = 5000;
+        float decimalPequeno = 200.0F;
+        boolean verdadeiroOuFalso = true;
+        char caracteres = ',';
+        short numeroPequeno = 40;
+        long numeroGrande = 1000000;
+        double decimalGrande = 100.00D;
+
     }
 }

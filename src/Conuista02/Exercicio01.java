@@ -11,7 +11,7 @@ public class Exercicio01 {
         if (Avião < 50) {
             System.out.println("Maicon tem 50 aviões");
         }
-        if (Avião == 100) {
+        else if (Avião == 100) {
             System.out.println("Maicon tem 100 aviões");
         }
 
