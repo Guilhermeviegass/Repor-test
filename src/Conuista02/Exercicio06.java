@@ -25,9 +25,6 @@ public class Exercicio06{
                 break;
 
 
-
-
-
             default:
                 System.out.println("O valor não é compatível");
         }
