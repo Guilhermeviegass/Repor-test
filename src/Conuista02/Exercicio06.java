@@ -4,21 +4,29 @@ public class Exercicio06{
     public static void main(String[] args) {
 
 
-        String car = "Jaguar";
+        String car = "Pc Gamer";
 
         switch (car) {
 
-            case "Mercedes":
-                System.out.println("Mercedes");
+            case "Xbox":
+                System.out.println("Xbox");
                 break;
 
-            case "Tesla":
-                System.out.println("Tesla");
+            case "PS5":
+                System.out.println("PS5");
                 break;
 
-            case "Ferrari":
-                System.out.println("Ferrari");
+            case "Pc":
+                System.out.println("Pc");
                 break;
+
+            case "switch":
+                System.out.println("switch");
+                break;
+
+
+
+
 
             default:
                 System.out.println("O valor não é compatível");
