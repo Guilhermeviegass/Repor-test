@@ -1,8 +1,10 @@
-package Conuista02;
+package Conquista02;
 
 public class Exercicio01 {
     public static void main(String[] args) {
-
+/*Criar um código que verifica se um valor de uma variável é igual a 100.
+ Caso verdadeiro, escrever no console: “Verdadeiro”
+*/
         int Avião = 100;
 
         if (Avião > 150) {

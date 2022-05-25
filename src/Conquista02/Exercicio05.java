@@ -1,10 +1,11 @@
-package Conuista02;
+package Conquista02;
 
 public class Exercicio05 {
     public static void main(String[] args) {
 
         /*Criar um código com uma estrutura SWITCH que verifica se o valor de uma variável é igual ao case.
-         (1, 2, 3). Os cases devem escrever quando o valor for igual ao seu próprio. Mostrando apenas a frase do case referente ao valor.
+         (1, 2, 3). Os cases devem escrever quando o valor for igual ao seu próprio.
+         Mostrando apenas a frase do case referente ao valor.
          */
         int MesDoAno = 07;
         switch (MesDoAno) {

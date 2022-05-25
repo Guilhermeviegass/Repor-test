@@ -1,29 +1,27 @@
-package Conuista02;
+package Conquista02;
 
 public class Exercicio06{
     public static void main(String[] args) {
+/*Criar um código com uma estrutura SWITCH que verifica se o valor de uma variável é igual ao case (a, b, c e default).
+ O código deve executar apenas o default com a mensagem: “O valor não é compatível”.
+ */
 
 
         String car = "Pc Gamer";
 
         switch (car) {
 
-            case "Xbox":
+            case "A":
                 System.out.println("Xbox");
                 break;
 
-            case "PS5":
+            case "B":
                 System.out.println("PS5");
                 break;
 
-            case "Pc":
+            case "C":
                 System.out.println("Pc");
                 break;
-
-            case "switch":
-                System.out.println("switch");
-                break;
-
 
             default:
                 System.out.println("O valor não é compatível");
