@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fundamentos
 
 ## Escopo de variável
@@ -81,4 +82,32 @@
 
     /O for é uma estrutura de repetição compacta. 
     /Seus elementos de inicialização, condição e iteração são reunidos na forma de um cabeçalho e o corpo é disposto em seguida.
+=======
+# Repor-test
+
+#documentação
+
+##Atalhos do IntelliJ
+
+###psvm
+
+###Ctrl+Alt+L
+
+###soutm
+
+    /Atalho pasra criação dométodo main
+    
+
+###Comentários
+
+#### /** e  //
+
+    /   Comentários do Java
+
+###Método equals
+
+    /O método equals é utilizado para comparações. A classe String e as classes Wrapper sobrescrevem equals()
+
+###If Else
+>>>>>>> origin/master
 
