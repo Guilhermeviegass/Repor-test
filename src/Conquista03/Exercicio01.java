@@ -7,7 +7,7 @@ public class Exercicio01 {
          */
         int valor = 0;
         while (valor < 10){
-            System.out.println(++valor);;
+            System.out.println(++valor);
         }
     }
 }
